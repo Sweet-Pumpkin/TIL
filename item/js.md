@@ -5,6 +5,7 @@
   - `map()`, `filter()` + `indexOf()`, `reverse()` 메서드로 날짜 역순으로 추출하기.
   - `map()`, `reduce()`, 삼항연산자로 지출내역 합산하기.
   - for문, if문으로 결제 내역 출력하기.
+  - [배포링크](https://app.netlify.com/sites/gilded-hotteok-27194b/overview)
 
 ---
 
