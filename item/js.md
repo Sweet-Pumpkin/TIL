@@ -1,4 +1,6 @@
-[JSON 파일 데이터로 결제내역 출력하기](https://velog.io/@sweet_pumpkin/Megabyte-School-JSON-%ED%8C%8C%EC%9D%BC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B0%80%EC%A0%B8%EC%99%80%EC%84%9C-%EB%A6%AC%EC%8A%A4%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0)<br />
+## Javascript
+
+[📄 JSON 파일 데이터로 결제내역 출력하기](https://velog.io/@sweet_pumpkin/Megabyte-School-JSON-%ED%8C%8C%EC%9D%BC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B0%80%EC%A0%B8%EC%99%80%EC%84%9C-%EB%A6%AC%EC%8A%A4%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0)<br />
   - `fetch()` 사용해서 `.json` 파일 가져오기.
   - `map()`, `filter()` + `indexOf()`, `reverse()` 메서드로 날짜 역순으로 추출하기.
   - `map()`, `reduce()`, 삼항연산자로 지출내역 합산하기.
