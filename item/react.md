@@ -21,6 +21,11 @@
 
 ---
 
+<a href="https://velog.io/@sweet_pumpkin/%EB%AC%B4%EC%9E%91%EC%A0%95-%EB%94%B0%EB%9D%BC%ED%95%98%EA%B8%B0-%ED%9B%85.-%ED%9B%84%ED%9B%85.-%EB%A6%AC.-%EB%A6%AC%EC%95%A1%ED%8A%B8-%ED%9B%85.-%ED%9B%84%ED%9B%85.-%ED%9B%85.-%EB%A6%AC.-%EB%A6%AC%EC%95%A1%ED%8A%B8-%ED%9B%85-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0">React Hook 알아보기</a>
+  - useState, useRef, useEffect, useMemo, useCallback 학습 및 정리
+
+---
+
 [React에서 console.log()가 두 번 출력되는 이유](https://velog.io/@sweet_pumpkin/%EB%AC%B4%EC%9E%91%EC%A0%95-%EB%94%B0%EB%9D%BC%ED%95%98%EA%B8%B0-%EC%95%84%EB%8B%88-%EC%99%9C-%EC%BD%94%EB%93%9C%EA%B0%80-%EB%91%90-%EB%B2%88-%EC%B6%9C%EB%A0%A5%EB%90%98%EB%8A%94-%EA%B1%B4%EB%8D%B0-React-StrictMode)
   - React StrictMode에 대해서 알아보기.
 
