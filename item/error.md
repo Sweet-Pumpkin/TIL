@@ -7,6 +7,8 @@ Warning: ReactDOM.render is no longer supported in React 18. Use createRoot inst
 ```
 2022년 3월 29일에 출시된 React18 환경에서는 `ReactDOM.render()`가 사용되지 않기 때문에 버전에 맞는 코드를 업데이트 해야 한다.
 
+---
+
 ### [git flow release 에러 현상](https://velog.io/@sweet_pumpkin/Error-%EB%8B%BF%EC%9D%84%EB%93%AF-%EB%A7%90%EB%93%AF-%EB%8B%BF%EC%A7%80-%EC%95%8A%EB%8A%94-%EB%B8%8C%EB%9E%9C%EC%B9%98...-%EC%96%B4%EB%94%94%EC%84%9C%EB%B6%80%ED%84%B0-%EC%9E%98%EB%AA%BB%EB%90%9C-%EA%B2%83%EC%9D%B8%EA%B0%80)
 `$ git flow release finish v0.1 ` 이후 _release_ 브랜치와 _main_ 브랜치가 병합되지 않고 아래와 같은 에러 메세지가 나타나는 문제.
 ```
@@ -17,6 +19,8 @@ Please make sure you have the correct access rights
 and the repository exists.
 ```
 _main_ 브랜치와 _develop_ 브랜치가 서로 연결되어 있지 않아 생기는 문제. _main_ 브랜치와 _develop_를 연결시켜줘야 한다.
+
+---
 
 ### [git 명령어 에러 현상](https://velog.io/@sweet_pumpkin/Error-Git-push-%EA%B1%B0%EC%A0%88-%ED%95%B4%EA%B2%B0)
 `$ git push -u origin develop` 명령어를 입력했으나, 아래와 같은 에러 메세지가 나타나며 깃허브에 코드가 업로드 되지 않는 문제.
