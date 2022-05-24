@@ -1,6 +1,14 @@
 ## React
 
 [너의 할 일은。 To Do List](https://velog.io/@sweet_pumpkin/%EB%AC%B4%EC%9E%91%EC%A0%95-%EB%94%B0%EB%9D%BC%ED%95%98%EA%B8%B0-%EB%84%88%EC%9D%98-%ED%95%A0-%EC%9D%BC%EC%9D%80%E3%80%82React%EB%A1%9C-To-Do-List-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+
+<a href="https://brilliant-cranachan-4b5cc5.netlify.app/">
+  <img src="https://img.shields.io/badge/LINK-00C7B7?style=flat-square&logo=Netlify&logoColor=FFFFFF"/>
+</a>
+<a href="https://github.com/Sweet-Pumpkin/react-to-do-list">
+  <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
+</a>
+
   - `useState()`로 To Do List 추가.
   - `filter()`, `indexOf()`로 To Do List 삭제.
   - To Do List 개수 10개로 제한
