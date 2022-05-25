@@ -25,10 +25,11 @@
 </a>
 
   - FastCampus Megabyte School 진상현 강사님 React 강의
+  - React Hook, React Router DOM 학습
 
 ---
 
-<b>>React Hook 알아보기</b>
+<b>React Hook 정리</b>
 <a href="https://velog.io/@sweet_pumpkin/%EB%AC%B4%EC%9E%91%EC%A0%95-%EB%94%B0%EB%9D%BC%ED%95%98%EA%B8%B0-%ED%9B%85.-%ED%9B%84%ED%9B%85.-%EB%A6%AC.-%EB%A6%AC%EC%95%A1%ED%8A%B8-%ED%9B%85.-%ED%9B%84%ED%9B%85.-%ED%9B%85.-%EB%A6%AC.-%EB%A6%AC%EC%95%A1%ED%8A%B8-%ED%9B%85-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0">
   <img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=FFFFFF"/>
 </a>
