@@ -19,7 +19,17 @@
 
 ---
 
-<b>React 연습</b>
+<b>React 실습: 로그인 페이지 만들기</b>
+<a href="https://github.com/Sweet-Pumpkin/STFE3-4_0526/tree/Giback">
+  <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
+</a>
+
+  - API 값 받아서 알맞은 아이디와 비밀번호일 경우 MyPage로 이동.
+  - Redux로 상태 관리하기.
+
+---
+
+<b>React 학습</b>
 <a href="https://github.com/Sweet-Pumpkin/practice-create-react-app#readme">
   <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
 </a>
