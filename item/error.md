@@ -1,6 +1,10 @@
 ## Error&Solution
 
-### [ReactDOM.render 에러 현상](https://velog.io/@sweet_pumpkin/Error-ReactDOM.render%EB%8A%94-React18%EC%97%90%EC%84%9C-%EC%A7%80%EC%9B%90%EB%90%98%EC%A7%80-%EC%95%8A%EC%8A%B5%EB%8B%88%EB%8B%A4)
+<b>ReactDOM.render 에러 현상</b>
+<a href="https://velog.io/@sweet_pumpkin/Error-ReactDOM.render%EB%8A%94-React18%EC%97%90%EC%84%9C-%EC%A7%80%EC%9B%90%EB%90%98%EC%A7%80-%EC%95%8A%EC%8A%B5%EB%8B%88%EB%8B%A4">
+  <img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=FFFFFF"/>
+</a>
+
 `ReactDOM.render()`를 실행했을때 아래와 같은 경고 메세지가 콘솔창에 나타나는 문제.
 ```
 Warning: ReactDOM.render is no longer supported in React 18. Use createRoot instead. Until you switch to the new API, your app will behave as if it's running React 17.
@@ -9,7 +13,11 @@ Warning: ReactDOM.render is no longer supported in React 18. Use createRoot inst
 
 ---
 
-### [git flow release 에러 현상](https://velog.io/@sweet_pumpkin/Error-%EB%8B%BF%EC%9D%84%EB%93%AF-%EB%A7%90%EB%93%AF-%EB%8B%BF%EC%A7%80-%EC%95%8A%EB%8A%94-%EB%B8%8C%EB%9E%9C%EC%B9%98...-%EC%96%B4%EB%94%94%EC%84%9C%EB%B6%80%ED%84%B0-%EC%9E%98%EB%AA%BB%EB%90%9C-%EA%B2%83%EC%9D%B8%EA%B0%80)
+<b>git flow release 에러 현상</b>
+<a href="https://velog.io/@sweet_pumpkin/Error-%EB%8B%BF%EC%9D%84%EB%93%AF-%EB%A7%90%EB%93%AF-%EB%8B%BF%EC%A7%80-%EC%95%8A%EB%8A%94-%EB%B8%8C%EB%9E%9C%EC%B9%98...-%EC%96%B4%EB%94%94%EC%84%9C%EB%B6%80%ED%84%B0-%EC%9E%98%EB%AA%BB%EB%90%9C-%EA%B2%83%EC%9D%B8%EA%B0%80">
+  <img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=FFFFFF"/>
+</a>
+
 `$ git flow release finish v0.1 ` 이후 _release_ 브랜치와 _main_ 브랜치가 병합되지 않고 아래와 같은 에러 메세지가 나타나는 문제.
 ```
 fatal: 'release' does not appear to be a git repository
@@ -22,7 +30,11 @@ _main_ 브랜치와 _develop_ 브랜치가 서로 연결되어 있지 않아 생
 
 ---
 
-### [git 명령어 에러 현상](https://velog.io/@sweet_pumpkin/Error-Git-push-%EA%B1%B0%EC%A0%88-%ED%95%B4%EA%B2%B0)
+<b>git 명령어 에러 현상</b>
+<a href="https://velog.io/@sweet_pumpkin/Error-Git-push-%EA%B1%B0%EC%A0%88-%ED%95%B4%EA%B2%B0">
+  <img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=FFFFFF"/>
+</a>
+
 `$ git push -u origin develop` 명령어를 입력했으나, 아래와 같은 에러 메세지가 나타나며 깃허브에 코드가 업로드 되지 않는 문제.
 ```
 $ git push -u origin develop
