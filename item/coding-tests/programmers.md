@@ -1,29 +1,19 @@
 ## Programmers
 
-<b>평균구하기</b>
-<a href="https://velog.io/@sweet_pumpkin/%EC%BD%94%ED%85%8C%EB%AC%B8%ED%92%80-Javascript-reduce%EB%A1%9C-%ED%8F%89%EA%B7%A0-%EA%B5%AC%ED%95%98%EA%B8%B0">
+<b>콜라츠 추측</b>
+<a href="https://velog.io/@sweet_pumpkin/%EC%BD%94%ED%85%8C%EB%AC%B8%ED%92%80-JavaScript-%EC%BD%9C%EB%9D%BC%EC%B8%A0-%EC%B6%94%EC%B8%A1">
   <img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=FFFFFF"/>
 </a>
 
-  - `reduce()` 이용해서 문제 풀이.
-  - for 구문을 활용해서 문제 풀이 추가.
+  - while 구문 사용하기.
 
----
-
-<b>핸드폰번호 가리기</b>
-<a href="https://velog.io/@sweet_pumpkin/%EC%BD%94%ED%85%8C%EB%AC%B8%ED%92%80-Javascript-%ED%95%B8%EB%93%9C%ED%8F%B0-%EB%B2%88%ED%98%B8-%EA%B0%80%EB%A6%AC%EA%B8%B0">
+<b>자릿수 더하기</b>
+<a href="https://velog.io/@sweet_pumpkin/%EC%BD%94%ED%85%8C%EB%AC%B8%ED%92%80-Javascript-%EC%9E%90%EB%A6%BF%EC%88%98-%EB%8D%94%ED%95%98%EA%B8%B0">
   <img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=FFFFFF"/>
 </a>
 
-  - `repeat()` 이용해서 핸드폰 번호 가리기.
-  - `substr()` 또는 `slice()` 이용해서 뒷자리 번호 남기기.
-
----
-
-<b>직사각형 별찍기</b>
-<a href="https://velog.io/@sweet_pumpkin/%EC%BD%94%ED%85%8C%EB%AC%B8%ED%92%80-Javascript-%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95-%EB%B3%84%EC%B0%8D%EA%B8%B0">
-  <img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=FFFFFF"/>
-</a>
+  - `split()` 사용해 값 나누기.  
+  - `reduce()`로 값 더하기. 
 
 ---
 
@@ -56,10 +46,27 @@
   - 아스키 코드 이용해서 값 구하기.
 ---
 
-<b>자릿수 더하기</b>
-<a href="https://velog.io/@sweet_pumpkin/%EC%BD%94%ED%85%8C%EB%AC%B8%ED%92%80-Javascript-%EC%9E%90%EB%A6%BF%EC%88%98-%EB%8D%94%ED%95%98%EA%B8%B0">
+<b>직사각형 별찍기</b>
+<a href="https://velog.io/@sweet_pumpkin/%EC%BD%94%ED%85%8C%EB%AC%B8%ED%92%80-Javascript-%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95-%EB%B3%84%EC%B0%8D%EA%B8%B0">
   <img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=FFFFFF"/>
 </a>
 
-  - `split()` 사용해 값 나누기.  
-  - `reduce()`로 값 더하기. 
+---
+
+<b>핸드폰번호 가리기</b>
+<a href="https://velog.io/@sweet_pumpkin/%EC%BD%94%ED%85%8C%EB%AC%B8%ED%92%80-Javascript-%ED%95%B8%EB%93%9C%ED%8F%B0-%EB%B2%88%ED%98%B8-%EA%B0%80%EB%A6%AC%EA%B8%B0">
+  <img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=FFFFFF"/>
+</a>
+
+  - `repeat()` 이용해서 핸드폰 번호 가리기.
+  - `substr()` 또는 `slice()` 이용해서 뒷자리 번호 남기기.
+
+---    
+
+<b>평균구하기</b>
+<a href="https://velog.io/@sweet_pumpkin/%EC%BD%94%ED%85%8C%EB%AC%B8%ED%92%80-Javascript-reduce%EB%A1%9C-%ED%8F%89%EA%B7%A0-%EA%B5%AC%ED%95%98%EA%B8%B0">
+  <img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=FFFFFF"/>
+</a>
+
+  - `reduce()` 이용해서 문제 풀이.
+  - for 구문을 활용해서 문제 풀이 추가.
