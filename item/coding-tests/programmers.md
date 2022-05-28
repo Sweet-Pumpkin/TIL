@@ -7,6 +7,8 @@
 
   - while 구문 사용하기.
 
+---
+
 <b>자릿수 더하기</b>
 <a href="https://velog.io/@sweet_pumpkin/%EC%BD%94%ED%85%8C%EB%AC%B8%ED%92%80-Javascript-%EC%9E%90%EB%A6%BF%EC%88%98-%EB%8D%94%ED%95%98%EA%B8%B0">
   <img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=FFFFFF"/>
