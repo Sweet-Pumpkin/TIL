@@ -43,7 +43,7 @@
 ---
 
 <b>JavaScript 심화</b>
-<a href="https://github.com/Sweet-Pumpkin/react-to-do-list">
+<a href="https://github.com/Sweet-Pumpkin/mgs-js-class">
   <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
 </a>
 
