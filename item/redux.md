@@ -4,7 +4,7 @@
 <a href="https://velog.io/@sweet_pumpkin/Megabyte-School-React-Redux%EB%A1%9C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%A7%8C%EB%93%A4%EA%B8%B0">
   <img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=FFFFFF"/>
 </a>
-<a href="https://github.com/Sweet-Pumpkin/STFE3-4_0526/tree/Giback">
+<a href="https://github.com/Sweet-Pumpkin/mgs-react-loginpage/tree/Giback">
   <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
 </a>
 
