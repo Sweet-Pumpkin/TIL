@@ -20,6 +20,18 @@
 ---
 
 <b>로그인 페이지 만들기</b>
+<a href="https://github.com/Sweet-Pumpkin/mgs-react-register">
+  <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
+</a>
+
+  - 작성한 id 값과 DB의 id 값 중복 체크.
+  - id, name, password 값을 DB에 업로드.
+  - DB의 유저정보와 title, content 값으로 게시글 작성.
+  - HOC 사용해서 특정 조건에만 해당 url로 접근하는 기능 추가.
+
+---
+
+<b>로그인 페이지 만들기</b>
 <a href="https://velog.io/@sweet_pumpkin/Megabyte-School-React-Redux%EB%A1%9C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%A7%8C%EB%93%A4%EA%B8%B0">
   <img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=FFFFFF"/>
 </a>
