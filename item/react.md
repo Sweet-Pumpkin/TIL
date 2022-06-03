@@ -20,7 +20,7 @@
 ---
 
 <b>회원가입 & 게시글 작성하기</b>
-<a href="https://github.com/Sweet-Pumpkin/mgs-react-register">
+<a href="https://github.com/Sweet-Pumpkin/mgs-react-register/tree/giback">
   <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
 </a>
 
