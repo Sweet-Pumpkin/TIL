@@ -1,5 +1,14 @@
 ## Error&Solution
 
+<b>Firebase GoogleAuthProvider 에러 현상</b>
+<a href="https://velog.io/@sweet_pumpkin/Error-Firebase-GoogleAuthProvider-%EC%99%B8%EC%95%8A%EB%90%A8">
+  <img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=FFFFFF"/>
+</a>
+
+  - React 환경에서 Firebase `GoogleAuthProvider()`를 사용해서 구글 아이디로 회원가입을 시도하던 중 발생한 에러.
+
+---
+
 <b>ReactDOM.render 에러 현상</b>
 <a href="https://velog.io/@sweet_pumpkin/Error-ReactDOM.render%EB%8A%94-React18%EC%97%90%EC%84%9C-%EC%A7%80%EC%9B%90%EB%90%98%EC%A7%80-%EC%95%8A%EC%8A%B5%EB%8B%88%EB%8B%A4">
   <img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=FFFFFF"/>
