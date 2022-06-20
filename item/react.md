@@ -1,5 +1,15 @@
 ## React
 
+<b>SNS ZaeZal</b>
+<a href="https://github.com/Sweet-Pumpkin/react-zaezal">
+  <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
+</a>
+<a href="https://app.netlify.com/sites/enchanting-horse-f2f1b7/overview">
+  <img src="https://img.shields.io/badge/LINK-00C7B7?style=flat-square&logo=Netlify&logoColor=FFFFFF"/>
+</a>
+
+---
+
 <b>NYT 뉴스 기사 검색 웹페이지</b>
 <a href="https://velog.io/@sweet_pumpkin/%ED%95%9C%EA%B8%80%EB%A1%9C-%EA%B0%9C%EB%B0%9C%EC%9D%84-%EC%B6%94%EA%B5%AC%ED%95%98%EB%A9%B4-%EC%95%88%EB%90%98%EB%8A%94%EA%B1%B8%EA%B9%8C-NYT-API%EB%A1%9C-%EB%89%B4%EC%8A%A4-%EA%B8%B0%EC%82%AC-%EA%B2%80%EC%83%89-%EC%9B%B9-%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%A7%8C%EB%93%A4%EA%B8%B0-1">
   <img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=FFFFFF"/>
