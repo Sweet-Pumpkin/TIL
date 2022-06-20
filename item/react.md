@@ -8,6 +8,11 @@
   <img src="https://img.shields.io/badge/LINK-00C7B7?style=flat-square&logo=Netlify&logoColor=FFFFFF"/>
 </a>
 
+  - Email & Google 회원가입, 로그인
+  - SNS 게시글 & 이미지 업로드 가능
+  - 본인이 업로드한 SNS 게시물만 삭제 가능
+  - 닉네임 변경 및 프로필 사진 변경 가능  
+
 ---
 
 <b>NYT 뉴스 기사 검색 웹페이지</b>
