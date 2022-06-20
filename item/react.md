@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/LINK-00C7B7?style=flat-square&logo=Netlify&logoColor=FFFFFF"/>
 </a>
 
+  - Fastcampus Megabyte School React Mini Project
   - NYT API 사용해서 뉴스 기사 검색하기.
   - 검색한 키워드 LocalStorage에 저장&삭제 관리.
   - 검색된 기사 즐겨찾기 기능 추가.

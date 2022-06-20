@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/LINK-00C7B7?style=flat-square&logo=Netlify&logoColor=FFFFFF"/>
 </a>
 
+  - Fastcampus Megabyte School Toy Project
   - `fetch()` 사용해서 데이터 불러오기.
   - HTML&CSS 구조 파악.
   - 날짜 역순으로 출력하기
