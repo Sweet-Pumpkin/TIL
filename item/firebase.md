@@ -4,7 +4,7 @@
 <a href="https://github.com/Sweet-Pumpkin/react-zaezal">
   <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
 </a>
-<a href="https://app.netlify.com/sites/enchanting-horse-f2f1b7/overview">
+<a href="https://enchanting-horse-f2f1b7.netlify.app/">
   <img src="https://img.shields.io/badge/LINK-00C7B7?style=flat-square&logo=Netlify&logoColor=FFFFFF"/>
 </a>
 
