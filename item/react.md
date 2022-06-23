@@ -1,6 +1,6 @@
 ## React
 
-<b>SNS ZaeZal</b>
+<b>Firebase로 SNS 만들기 ZaeZal</b>
 <a href="https://github.com/Sweet-Pumpkin/react-zaezal">
   <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
 </a>
