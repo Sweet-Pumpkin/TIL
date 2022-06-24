@@ -1,7 +1,7 @@
 ## React
 
 <b>Firebase로 SNS 만들기 ZaeZal</b>
-<a href="https://github.com/Sweet-Pumpkin/react-zaezal">
+<a href="https://github.com/Sweet-Pumpkin/react-zaezal/tree/zaezal">
   <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
 </a>
 <a href="https://enchanting-horse-f2f1b7.netlify.app/">
