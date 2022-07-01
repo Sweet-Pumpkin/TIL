@@ -1,10 +1,11 @@
 ## 🧭항목별 TIL
   ### PlatForms & Langueges
   [React](../item/react.md)<br />
-  [Next.js](../item/next.md)<br />
   [Redux](../item/redux.md)<br />
-  [Vue.js](../item/vue.md)<br />
   [JavaScript](../item/javascript.md)<br />
+  [TypeScript](../item/typescript.md)<br />
+  [Python](../item/python.md)<br />
+  [Firebase](../item/firebase.md)<br />
   [HTML&CSS](../item/html-css.md)<br />
 
   ### etc.
