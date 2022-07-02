@@ -7,6 +7,7 @@
   [Python](../item/python.md)<br />
   [Firebase](../item/firebase.md)<br />
   [HTML&CSS](../item/html-css.md)<br />
+  [C](../item/c.md)<br />
 
   ### etc.
   [코딩테스트](../item/coding-test.md)<br />
