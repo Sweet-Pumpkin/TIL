@@ -2,6 +2,30 @@
 
 ### 입출력과 사칙연산
 
+<b>11022번 A+B - 8</b>
+<a href="https://www.acmicpc.net/problem/11022">
+  <img src="https://img.shields.io/badge/BACKJOON-0071B5?style=flat-square&logo=Hack The Box&logoColor=FFFFFF"/>
+</a>
+<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/loop/num11022">
+  <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
+</a>
+
+<b>11021번 A+B - 7</b>
+<a href="https://www.acmicpc.net/problem/11021">
+  <img src="https://img.shields.io/badge/BACKJOON-0071B5?style=flat-square&logo=Hack The Box&logoColor=FFFFFF"/>
+</a>
+<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/loop/num11021">
+  <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
+</a>
+
+<b>2742번 기찍 N</b>
+<a href="https://www.acmicpc.net/problem/2742">
+  <img src="https://img.shields.io/badge/BACKJOON-0071B5?style=flat-square&logo=Hack The Box&logoColor=FFFFFF"/>
+</a>
+<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/loop/num2472">
+  <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
+</a>
+
 <b>2741번 N 찍기</b>
 <a href="https://www.acmicpc.net/problem/2741">
   <img src="https://img.shields.io/badge/BACKJOON-0071B5?style=flat-square&logo=Hack The Box&logoColor=FFFFFF"/>
