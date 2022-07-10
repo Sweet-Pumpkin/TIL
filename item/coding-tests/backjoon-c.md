@@ -2,6 +2,50 @@
 
 ### 입출력과 사칙연산
 
+<b>2741번 N 찍기</b>
+<a href="https://www.acmicpc.net/problem/2741">
+  <img src="https://img.shields.io/badge/BACKJOON-0071B5?style=flat-square&logo=Hack The Box&logoColor=FFFFFF"/>
+</a>
+<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/loop/num2471">
+  <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
+</a>
+
+<b>15552번 빠른 A+B</b>
+<a href="https://www.acmicpc.net/problem/15552">
+  <img src="https://img.shields.io/badge/BACKJOON-0071B5?style=flat-square&logo=Hack The Box&logoColor=FFFFFF"/>
+</a>
+<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/loop/num15552">
+  <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
+</a>
+
+<b>8393번 합</b>
+<a href="https://www.acmicpc.net/problem/8393">
+  <img src="https://img.shields.io/badge/BACKJOON-0071B5?style=flat-square&logo=Hack The Box&logoColor=FFFFFF"/>
+</a>
+<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/loop/num8393">
+  <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
+</a>
+
+<b>10950번 A+B - 3</b>
+<a href="https://www.acmicpc.net/problem/10950">
+  <img src="https://img.shields.io/badge/BACKJOON-0071B5?style=flat-square&logo=Hack The Box&logoColor=FFFFFF"/>
+</a>
+<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/loop/num10950">
+  <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
+</a>
+
+<b>2739번 구구단</b>
+<a href="https://www.acmicpc.net/problem/2739">
+  <img src="https://img.shields.io/badge/BACKJOON-0071B5?style=flat-square&logo=Hack The Box&logoColor=FFFFFF"/>
+</a>
+<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/loop/num2739">
+  <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
+</a>
+
+---
+
+### 입출력과 사칙연산
+
 <b>25083번 새싹</b>
 <a href="https://www.acmicpc.net/problem/25083">
   <img src="https://img.shields.io/badge/BACKJOON-0071B5?style=flat-square&logo=Hack The Box&logoColor=FFFFFF"/>
