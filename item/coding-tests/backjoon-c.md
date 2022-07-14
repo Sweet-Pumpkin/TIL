@@ -1,6 +1,6 @@
 ## BACKJOON with C
 
-### 입출력과 사칙연산
+### 반복문
 
 <b>11022번 A+B - 8</b>
 <a href="https://www.acmicpc.net/problem/11022">
