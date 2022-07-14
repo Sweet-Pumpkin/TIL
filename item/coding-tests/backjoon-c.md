@@ -2,7 +2,39 @@
 
 ### 반복문
 
-<b>11022번 A+B - 8</b>
+<b>1110번 더하기 사이클</b>
+<a href="https://www.acmicpc.net/problem/1110">
+  <img src="https://img.shields.io/badge/BACKJOON-0071B5?style=flat-square&logo=Hack The Box&logoColor=FFFFFF"/>
+</a>
+<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/loop/num1110">
+  <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
+</a>
+
+<b>10951번 A+B - 4</b>
+<a href="https://www.acmicpc.net/problem/10951">
+  <img src="https://img.shields.io/badge/BACKJOON-0071B5?style=flat-square&logo=Hack The Box&logoColor=FFFFFF"/>
+</a>
+<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/loop/num10951">
+  <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
+</a>
+
+<b>10952번 A+B - 5</b>
+<a href="https://www.acmicpc.net/problem/10952">
+  <img src="https://img.shields.io/badge/BACKJOON-0071B5?style=flat-square&logo=Hack The Box&logoColor=FFFFFF"/>
+</a>
+<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/loop/num10952">
+  <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
+</a>
+
+<b>10871번 X보다 작은 수</b>
+<a href="https://www.acmicpc.net/problem/10871">
+  <img src="https://img.shields.io/badge/BACKJOON-0071B5?style=flat-square&logo=Hack The Box&logoColor=FFFFFF"/>
+</a>
+<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/loop/num10871">
+  <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
+</a>
+
+<b>10952번 A+B - 8</b>
 <a href="https://www.acmicpc.net/problem/11022">
   <img src="https://img.shields.io/badge/BACKJOON-0071B5?style=flat-square&logo=Hack The Box&logoColor=FFFFFF"/>
 </a>
