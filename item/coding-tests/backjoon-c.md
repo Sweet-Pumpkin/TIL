@@ -6,7 +6,7 @@
 <a href="https://www.acmicpc.net/problem/1110">
   <img src="https://img.shields.io/badge/BACKJOON-0071B5?style=flat-square&logo=Hack The Box&logoColor=FFFFFF"/>
 </a>
-<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/loop/num1110">
+<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/loop/num1110.c">
   <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
 </a>
 
@@ -14,7 +14,7 @@
 <a href="https://www.acmicpc.net/problem/10951">
   <img src="https://img.shields.io/badge/BACKJOON-0071B5?style=flat-square&logo=Hack The Box&logoColor=FFFFFF"/>
 </a>
-<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/loop/num10951">
+<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/loop/num10951.c">
   <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
 </a>
 
@@ -22,7 +22,7 @@
 <a href="https://www.acmicpc.net/problem/10952">
   <img src="https://img.shields.io/badge/BACKJOON-0071B5?style=flat-square&logo=Hack The Box&logoColor=FFFFFF"/>
 </a>
-<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/loop/num10952">
+<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/loop/num10952.c">
   <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
 </a>
 
@@ -30,7 +30,7 @@
 <a href="https://www.acmicpc.net/problem/10871">
   <img src="https://img.shields.io/badge/BACKJOON-0071B5?style=flat-square&logo=Hack The Box&logoColor=FFFFFF"/>
 </a>
-<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/loop/num10871">
+<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/loop/num10871.c">
   <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
 </a>
 
@@ -38,7 +38,7 @@
 <a href="https://www.acmicpc.net/problem/11022">
   <img src="https://img.shields.io/badge/BACKJOON-0071B5?style=flat-square&logo=Hack The Box&logoColor=FFFFFF"/>
 </a>
-<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/loop/num11022">
+<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/loop/num11022.c">
   <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
 </a>
 
@@ -46,7 +46,7 @@
 <a href="https://www.acmicpc.net/problem/11021">
   <img src="https://img.shields.io/badge/BACKJOON-0071B5?style=flat-square&logo=Hack The Box&logoColor=FFFFFF"/>
 </a>
-<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/loop/num11021">
+<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/loop/num11021.c">
   <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
 </a>
 
@@ -54,7 +54,7 @@
 <a href="https://www.acmicpc.net/problem/2742">
   <img src="https://img.shields.io/badge/BACKJOON-0071B5?style=flat-square&logo=Hack The Box&logoColor=FFFFFF"/>
 </a>
-<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/loop/num2472">
+<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/loop/num2472.c">
   <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
 </a>
 
@@ -62,7 +62,7 @@
 <a href="https://www.acmicpc.net/problem/2741">
   <img src="https://img.shields.io/badge/BACKJOON-0071B5?style=flat-square&logo=Hack The Box&logoColor=FFFFFF"/>
 </a>
-<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/loop/num2471">
+<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/loop/num2471.c">
   <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
 </a>
 
@@ -70,7 +70,7 @@
 <a href="https://www.acmicpc.net/problem/15552">
   <img src="https://img.shields.io/badge/BACKJOON-0071B5?style=flat-square&logo=Hack The Box&logoColor=FFFFFF"/>
 </a>
-<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/loop/num15552">
+<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/loop/num15552.c">
   <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
 </a>
 
@@ -78,7 +78,7 @@
 <a href="https://www.acmicpc.net/problem/8393">
   <img src="https://img.shields.io/badge/BACKJOON-0071B5?style=flat-square&logo=Hack The Box&logoColor=FFFFFF"/>
 </a>
-<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/loop/num8393">
+<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/loop/num8393.c">
   <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
 </a>
 
@@ -86,7 +86,7 @@
 <a href="https://www.acmicpc.net/problem/10950">
   <img src="https://img.shields.io/badge/BACKJOON-0071B5?style=flat-square&logo=Hack The Box&logoColor=FFFFFF"/>
 </a>
-<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/loop/num10950">
+<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/loop/num10950.c">
   <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
 </a>
 
@@ -94,7 +94,67 @@
 <a href="https://www.acmicpc.net/problem/2739">
   <img src="https://img.shields.io/badge/BACKJOON-0071B5?style=flat-square&logo=Hack The Box&logoColor=FFFFFF"/>
 </a>
-<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/loop/num2739">
+<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/loop/num2739.c">
+  <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
+</a>
+
+---
+
+### 조건문
+
+<b>1330번 두 수 비교하기</b>
+<a href="https://www.acmicpc.net/problem/1330">
+  <img src="https://img.shields.io/badge/BACKJOON-0071B5?style=flat-square&logo=Hack The Box&logoColor=FFFFFF"/>
+</a>
+<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/condition/num1330.c">
+  <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
+</a>
+
+<b>9498번 시험 성적</b>
+<a href="https://www.acmicpc.net/problem/9498">
+  <img src="https://img.shields.io/badge/BACKJOON-0071B5?style=flat-square&logo=Hack The Box&logoColor=FFFFFF"/>
+</a>
+<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/condition/num9498.c">
+  <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
+</a>
+
+<b>2753번 윤년</b>
+<a href="https://www.acmicpc.net/problem/2753">
+  <img src="https://img.shields.io/badge/BACKJOON-0071B5?style=flat-square&logo=Hack The Box&logoColor=FFFFFF"/>
+</a>
+<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/condition/num2753.c">
+  <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
+</a>
+
+<b>14681번 사분면 고르기</b>
+<a href="https://www.acmicpc.net/problem/14681">
+  <img src="https://img.shields.io/badge/BACKJOON-0071B5?style=flat-square&logo=Hack The Box&logoColor=FFFFFF"/>
+</a>
+<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/condition/num14681.c">
+  <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
+</a>
+
+<b>2884번 알람 시계</b>
+<a href="https://www.acmicpc.net/problem/2884">
+  <img src="https://img.shields.io/badge/BACKJOON-0071B5?style=flat-square&logo=Hack The Box&logoColor=FFFFFF"/>
+</a>
+<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/condition/num2884.c">
+  <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
+</a>
+
+<b>2525번 오븐 시계</b>
+<a href="https://www.acmicpc.net/problem/2525">
+  <img src="https://img.shields.io/badge/BACKJOON-0071B5?style=flat-square&logo=Hack The Box&logoColor=FFFFFF"/>
+</a>
+<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/condition/num2525.c">
+  <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
+</a>
+
+<b>2480번 주사위 세계</b>
+<a href="https://www.acmicpc.net/problem/2480">
+  <img src="https://img.shields.io/badge/BACKJOON-0071B5?style=flat-square&logo=Hack The Box&logoColor=FFFFFF"/>
+</a>
+<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/condition/num2480.c">
   <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
 </a>
 
