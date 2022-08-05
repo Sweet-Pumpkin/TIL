@@ -1,5 +1,15 @@
 ## C
 
+<b>42Seoul 문제 미리 풀어보기</b>
+<a href="https://github.com/Sweet-Pumpkin/practice-c/tree/main/practice42">
+  <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
+</a>
+
+- École42 대비 42Seoul 문제 미리 풀어보기
+- 리눅스 체제 쉘 명령어 & C
+
+---
+
 <b>나도코딩: C 프로그래밍 - 입문부터 게임 개발까지</b>
 <a href="https://github.com/Sweet-Pumpkin/practice-c/tree/main/nadoCoding">
   <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
@@ -10,11 +20,3 @@
 
 - 게임을 만들면서 배우는 C 프로그래밍 언어 입문
 - 입출력, 반복문, 조건문, 함수, 배열, 포인터, 다차원배열, 구조체, 등
-
-<b>42Seoul 문제 미리 풀어보기</b>
-<a href="https://github.com/Sweet-Pumpkin/practice-c/tree/main/practice42">
-  <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
-</a>
-
-- École42 대비 42Seoul 문제 미리 풀어보기
-- Shell 명령어 & C
