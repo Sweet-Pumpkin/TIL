@@ -1,5 +1,63 @@
 ## BACKJOON with C
 
+### 1차원 배열
+
+<b>4344번 평균은 넘겠지</b>
+<a href="https://www.acmicpc.net/problem/4344">
+  <img src="https://img.shields.io/badge/BACKJOON-0071B5?style=flat-square&logo=Hack The Box&logoColor=FFFFFF"/>
+</a>
+<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/loop/num4344.c">
+  <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
+</a>
+
+<b>8958번 OX퀴즈</b>
+<a href="https://www.acmicpc.net/problem/8958">
+  <img src="https://img.shields.io/badge/BACKJOON-0071B5?style=flat-square&logo=Hack The Box&logoColor=FFFFFF"/>
+</a>
+<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/loop/num8958.c">
+  <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
+</a>
+
+<b>1546번 평균</b>
+<a href="https://www.acmicpc.net/problem/1546">
+  <img src="https://img.shields.io/badge/BACKJOON-0071B5?style=flat-square&logo=Hack The Box&logoColor=FFFFFF"/>
+</a>
+<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/loop/num1546.c">
+  <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
+</a>
+
+<b>3052번 나머지</b>
+<a href="https://www.acmicpc.net/problem/2052">
+  <img src="https://img.shields.io/badge/BACKJOON-0071B5?style=flat-square&logo=Hack The Box&logoColor=FFFFFF"/>
+</a>
+<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/loop/num3052.c">
+  <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
+</a>
+
+<b>2577번 숫자의 개수</b>
+<a href="https://www.acmicpc.net/problem/2577">
+  <img src="https://img.shields.io/badge/BACKJOON-0071B5?style=flat-square&logo=Hack The Box&logoColor=FFFFFF"/>
+</a>
+<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/loop/num2577.c">
+  <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
+</a>
+
+<b>2562번 최댓값</b>
+<a href="https://www.acmicpc.net/problem/2562">
+  <img src="https://img.shields.io/badge/BACKJOON-0071B5?style=flat-square&logo=Hack The Box&logoColor=FFFFFF"/>
+</a>
+<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/loop/num2562.c">
+  <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
+</a>
+
+<b>10818번 최소,최대</b>
+<a href="https://www.acmicpc.net/problem/10818">
+  <img src="https://img.shields.io/badge/BACKJOON-0071B5?style=flat-square&logo=Hack The Box&logoColor=FFFFFF"/>
+</a>
+<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/loop/num10818.c">
+  <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
+</a>
+
 ### 반복문
 
 <b>1110번 더하기 사이클</b>
@@ -71,6 +129,14 @@
   <img src="https://img.shields.io/badge/BACKJOON-0071B5?style=flat-square&logo=Hack The Box&logoColor=FFFFFF"/>
 </a>
 <a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/loop/num15552.c">
+  <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
+</a>
+
+<b>25304번 영수증</b>
+<a href="https://www.acmicpc.net/problem/25304">
+  <img src="https://img.shields.io/badge/BACKJOON-0071B5?style=flat-square&logo=Hack The Box&logoColor=FFFFFF"/>
+</a>
+<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/loop/num25304.c">
   <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
 </a>
 
@@ -183,6 +249,14 @@
   <img src="https://img.shields.io/badge/BACKJOON-0071B5?style=flat-square&logo=Hack The Box&logoColor=FFFFFF"/>
 </a>
 <a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/input-output-arithmeticOperation/num10430.c">
+  <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
+</a>
+
+<b>3003번 킹, 퀸, 룩, 비숍, 나이트, 폰</b>
+<a href="https://www.acmicpc.net/problem/3003">
+  <img src="https://img.shields.io/badge/BACKJOON-0071B5?style=flat-square&logo=Hack The Box&logoColor=FFFFFF"/>
+</a>
+<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/input-output-arithmeticOperation/num3003.c">
   <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
 </a>
 
