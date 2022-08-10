@@ -1,5 +1,15 @@
 ## Error&Solution
 
+<b>C언어 CLOCKS_PER_SEC가 제대로 동작하지 않는 현상</b>
+<a href="https://velog.io/@sweet_pumpkin/Mac-OS%EC%97%90%EC%84%9C%EB%8A%94-CLOCKSPERSEC%EA%B0%80-1000000%EC%9C%BC%EB%A1%9C-%EB%82%98%EB%88%A0%EC%A7%91%EB%8B%88%EB%8B%A4">
+  <img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=FFFFFF"/>
+</a>
+
+- MacOS에서 C언어 `CLOCKS_PER_SEC`가 제대로 동작하지 않는 현상.
+- Window에서는 `CLOCKS_PER_SEC`가 1,000을 의미하지만, MacOS에서는 1,000,000을 의미함. 
+- 따라서 MacOS에서는 `gettimeofday()`를 사용해야 한다.
+---
+
 <b>Firebase GoogleAuthProvider 에러 현상</b>
 <a href="https://velog.io/@sweet_pumpkin/Error-Firebase-GoogleAuthProvider-%EC%99%B8%EC%95%8A%EB%90%A8">
   <img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=FFFFFF"/>
