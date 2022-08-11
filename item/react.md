@@ -1,5 +1,22 @@
 ## React
 
+<b>핀테크 웹 프로젝트</b>
+<a href="https://github.com/happyhermann/STFE3-4_Final_Project_9TEAM">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=FFFFFF"/>
+</a>
+<a href="https://www.notion.so/9-c03ef42d73bf4e7fa0564218e1a71a4c">
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=FFFFFF"/>
+</a>
+<a href="https://landmarkkorea.netlify.app/">
+  <img src="https://img.shields.io/badge/LINK-00C7B7?style=flat-square&logo=Netlify&logoColor=FFFFFF"/>
+</a>
+
+- 로그인 & 회원가입 + 로그인 아이디 기억 기능
+- 제품 검색 및 제품 상세 정보 조회
+- 제품 찜하기, 구매 기능
+- 프로필 수정 + 최근 본 매물 기능
+- 관리자 페이지(제품 등록, 수정, 구매 목록 조회)
+
 <b>Firebase로 SNS 만들기 ZaeZal</b>
 <a href="https://github.com/Sweet-Pumpkin/react-zaezal/tree/zaezal">
   <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
