@@ -15,7 +15,7 @@
 <h3>주요 프로젝트</h3>
 
 <h4>
-  <span>파이널 프로젝트 : 부동산 핀테크 웹</span>
+  <span>- 파이널 프로젝트 : 부동산 핀테크 웹</span>
   <a href="https://github.com/happyhermann/STFE3-4_Final_Project_9TEAM">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=FFFFFF"/>
   </a>
@@ -25,14 +25,14 @@
 <h4>
 
 <h4>
-  <span>React 미니 프로젝트 : 뉴스 검색 웹</span>
+  <span>- React 미니 프로젝트 : 뉴스 검색 웹</span>
   <a href="https://github.com/Sweet-Pumpkin/react-news-search">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=FFFFFF"/>
   </a>
 <h4>
 
 <h4>
-  <span>JS 토이 프로젝트 : 은행 앱</span>
+  <span>- JS 토이 프로젝트 : 은행 앱</span>
   <a href="https://github.com/Sweet-Pumpkin/mgs-toy-project">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=FFFFFF"/>
   </a>
