@@ -17,6 +17,8 @@
 - 프로필 수정 + 최근 본 매물 기능
 - 관리자 페이지(제품 등록, 수정, 구매 목록 조회)
 
+---
+
 <b>Firebase로 SNS 만들기 ZaeZal</b>
 <a href="https://github.com/Sweet-Pumpkin/react-zaezal/tree/zaezal">
   <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
