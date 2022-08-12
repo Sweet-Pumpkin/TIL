@@ -7,7 +7,7 @@
 <br />
 
 #### 수료증
-<img src="../img/국비수료증.png" alt="수료증">
+<img src="../img/국비수료증.png" alt="수료증" width="600px">
 
 <br />
 
