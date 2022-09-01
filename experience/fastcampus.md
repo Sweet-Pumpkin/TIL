@@ -8,7 +8,7 @@
 </h3>
 
 > Period : 2022.04.11 ~ 2022.07.29<br />
-> Training details : HTML, CSS, JS, React, TS, Redux etc.<br />
+> Training details : Learning HTML, CSS, JS, React, TS, Redux etc.<br />
 
 <br />
 
