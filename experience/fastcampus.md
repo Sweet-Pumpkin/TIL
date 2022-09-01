@@ -41,7 +41,8 @@
 <br />
 
 <h3>수료증</h3>
-<img src="../img/국비수료증.png" alt="수료증" width="600px">
+<img src="../img/국비과정수료증1_영문.png" alt="수료증" width="600px">
+<img src="../img/국비과정수료증1_국문.png" alt="수료증" width="600px">
 
 <br />
 
