@@ -10,6 +10,15 @@
 
 ---
 
+<b>모두의 코드 - 씹어먹는 C언어</b>
+<a href="https://modoocode.com/231">
+  <img src="https://img.shields.io/badge/Infearn-0076D6?style=flat-square&logo=Internet Explorer&logoColor=FFFFFF"/>
+</a>
+
+- C, C++, 알고리즘, 자료구조 등
+
+---
+
 <b>나도코딩: C 프로그래밍 - 입문부터 게임 개발까지</b>
 <a href="https://github.com/Sweet-Pumpkin/practice-c/tree/main/nadoCoding">
   <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
