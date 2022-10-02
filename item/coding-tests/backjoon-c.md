@@ -6,7 +6,7 @@
 <a href="https://www.acmicpc.net/problem/4344">
   <img src="https://img.shields.io/badge/BACKJOON-0071B5?style=flat-square&logo=Hack The Box&logoColor=FFFFFF"/>
 </a>
-<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/loop/num4344.c">
+<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/one-dimensional-array/num4344.c">
   <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
 </a>
 
@@ -14,7 +14,7 @@
 <a href="https://www.acmicpc.net/problem/8958">
   <img src="https://img.shields.io/badge/BACKJOON-0071B5?style=flat-square&logo=Hack The Box&logoColor=FFFFFF"/>
 </a>
-<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/loop/num8958.c">
+<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/one-dimensional-array/num8958.c">
   <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
 </a>
 
@@ -22,7 +22,7 @@
 <a href="https://www.acmicpc.net/problem/1546">
   <img src="https://img.shields.io/badge/BACKJOON-0071B5?style=flat-square&logo=Hack The Box&logoColor=FFFFFF"/>
 </a>
-<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/loop/num1546.c">
+<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/one-dimensional-array/num1546.c">
   <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
 </a>
 
@@ -30,7 +30,7 @@
 <a href="https://www.acmicpc.net/problem/2052">
   <img src="https://img.shields.io/badge/BACKJOON-0071B5?style=flat-square&logo=Hack The Box&logoColor=FFFFFF"/>
 </a>
-<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/loop/num3052.c">
+<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/one-dimensional-array/num3052.c">
   <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
 </a>
 
@@ -38,7 +38,7 @@
 <a href="https://www.acmicpc.net/problem/2577">
   <img src="https://img.shields.io/badge/BACKJOON-0071B5?style=flat-square&logo=Hack The Box&logoColor=FFFFFF"/>
 </a>
-<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/loop/num2577.c">
+<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/one-dimensional-array/num2577.c">
   <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
 </a>
 
@@ -46,7 +46,7 @@
 <a href="https://www.acmicpc.net/problem/2562">
   <img src="https://img.shields.io/badge/BACKJOON-0071B5?style=flat-square&logo=Hack The Box&logoColor=FFFFFF"/>
 </a>
-<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/loop/num2562.c">
+<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/one-dimensional-array/num2562.c">
   <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
 </a>
 
@@ -54,7 +54,7 @@
 <a href="https://www.acmicpc.net/problem/10818">
   <img src="https://img.shields.io/badge/BACKJOON-0071B5?style=flat-square&logo=Hack The Box&logoColor=FFFFFF"/>
 </a>
-<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/loop/num10818.c">
+<a href="https://github.com/Sweet-Pumpkin/practice-c/blob/main/backjoon/one-dimensional-array/num10818.c">
   <img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=CodersRank&logoColor=FFFFFF"/>
 </a>
 
